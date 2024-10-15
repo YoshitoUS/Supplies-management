@@ -1,0 +1,6 @@
+framework module Pods_playful {
+  umbrella header "Pods-playful-umbrella.h"
+
+  export *
+  module * { export * }
+}
